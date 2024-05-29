@@ -120,11 +120,9 @@ Examples of foundational models:
 
 > At their core, Transformers use a mechanism known as attention (specifically self-attention), which allows the model to consider the entire context of a sentence, considering all words simultaneously rather than processing the sentence word by word. This approach is more efficient and can improve results on many NLP tasks.
 
-https://livebook.manning.com/book/generative-ai-in-action/chapter-2/v-7/point-18773-30-43-0
-
-
 > The key point is that while these models can generate text based on the data they were trained on, they do not learn or update their knowledge after the training cut-off. They cannot access or retrieve real-time information from the internet or any external database. Their responses are generated purely based on patterns they have learned during their training period.
 
+Extracted from: https://livebook.manning.com/book/generative-ai-in-action/chapter-2/v-7/point-18773-30-43-0
 
 ### Types of LLMs
 
