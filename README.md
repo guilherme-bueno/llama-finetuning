@@ -1139,9 +1139,10 @@ with torch.no_grad():
 
 
 #### CodeLLama - 7B
-https://github.com/guilhermehbueno/notes/assets/371125/267542a5-097e-49a3-a608-e1c529093b93
+https://github.com/guilherme-bueno/llama-finetuning/assets/85591779/0d4d2934-9a55-49c8-b6cb-239e65052aae
+
 
 
 #### CodeLLama - 7B - Transitional Services
-https://github.com/guilhermehbueno/notes/assets/371125/e7c9d662-5cd3-4dc6-b519-3f8d361bd015
+https://github.com/guilherme-bueno/llama-finetuning/assets/85591779/f46ab1fc-4a55-454e-b37b-bca58fb27335
 
