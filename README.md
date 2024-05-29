@@ -190,9 +190,9 @@ For scenarios where bias has been traditionally an issue, make sure that key tra
 - Differents LLMs uses different tokenization strategies. They aren't exchangeable/interchangeable.
 - The number of tokens influence the cost regarding money and experience with latency and throughput.
 
-<img width="1459" alt="Screenshot 2024-05-21 at 9 10 25 PM" src="https://github.com/guilhermehbueno/notes/assets/371125/6fdb79c5-e99c-4bd8-b030-c948a6fcd382">
-<img width="1458" alt="Screenshot 2024-05-21 at 9 10 16 PM" src="https://github.com/guilhermehbueno/notes/assets/371125/4420f395-cdad-4cc8-8f95-094baf657b1b">
-<img width="1462" alt="Screenshot 2024-05-21 at 9 09 22 PM" src="https://github.com/guilhermehbueno/notes/assets/371125/809a8185-c3ef-4879-a5fc-489e10b2ddb7">
+<img width="1459" alt="Screenshot 2024-05-21 at 9 10 25 PM" src="https://github.com/guilherme-bueno/llama-finetuning/assets/85591779/be9bc174-2a26-4cfc-8c99-a92e737cca2f">
+<img width="1458" alt="https://github.com/guilherme-bueno/llama-finetuning/assets/85591779/ca94c80e-f9b6-4517-a87a-81ed415b4be7">
+<img width="1462" alt="Screenshot 2024-05-21 at 9 09 22 PM" src="https://github.com/guilherme-bueno/llama-finetuning/assets/85591779/876396a4-7bf3-4c28-8f52-754d5ba0d4c8">
 
 __See__: 
 - https://platform.openai.com/tokenizer
@@ -1107,7 +1107,7 @@ model.push_to_hub(new_model, use_temp_dir=False)
 tokenizer.push_to_hub(new_model, use_temp_dir=False)
 ```
 
-<img width="1297" alt="Screenshot 2024-05-23 at 8 00 34 AM" src="https://github.com/guilhermehbueno/notes/assets/371125/132e2a5e-7d3e-4e8b-a3e7-98359c5a2422">
+<img width="1297" alt="Screenshot 2024-05-23 at 8 00 34 AM" src="https://github.com/guilherme-bueno/llama-finetuning/assets/85591779/8ace2674-cede-4bd8-93a4-58984713f159">
 
 
 ### Running the model
