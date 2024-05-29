@@ -110,7 +110,7 @@ Examples of foundational models:
 - **LLama (Meta)**: Llama is a family of autoregressive large language models developed by Meta AI. 
   - LLama 1: February 2023
   - LLama 2: July, 2023 (Commercial License)
-  - LLama 3: July, 2024
+  - LLama 3: April, 2024
 
 
 
